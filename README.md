@@ -1,0 +1,1 @@
+# Metody Numeryczne w Python
